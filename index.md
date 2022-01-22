@@ -1,1 +1,2 @@
-Hello and welcome to my deep learning journey blog! 
+Hello and welcome to my data science blog! 
+
