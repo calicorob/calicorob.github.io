@@ -1,3 +1,5 @@
+# About
+
 # About the site
 
 This blog was created so I could deepen my understanding of various data science topics and tools through writing. I've always felt that my understanding of a topic has deepened when I've tried (and failed) to teach that topic to someone else. 
