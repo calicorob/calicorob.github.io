@@ -1,5 +1,3 @@
-<img src="images/robert.jpg" width="200" height="200" />
-
 # About the site
 
 This blog was created so I could deepen my understanding of various data science topics and tools through writing. I've always felt that my understanding of a topic has deepened when I've tried (and failed) to teach that topic to someone else. 
@@ -29,3 +27,5 @@ At the University of Waterloo, I primiarily worked on:
 My regression and modelling work has been used in 4 [publications](https://scholar.google.com/citations?user=J2R_w0UAAAAJ&hl=en).
 
 I got interested in data science and machine learning while working on my Masters' Degree at the University of Waterloo.
+
+<img src="images/robert.jpg" width="200" height="200" />
