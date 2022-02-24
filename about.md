@@ -1,4 +1,4 @@
-![Robert](images/robert.jpg)
+<img src="images/robert.jpg" width="200" height="200" />
 
 # About the site
 
