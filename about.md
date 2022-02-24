@@ -1,4 +1,4 @@
-[Robert](images/robert.jpg)
+![Robert](images/robert.jpg)
 
 # About the site
 
