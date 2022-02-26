@@ -1,2 +1,1 @@
-Hello and welcome to my data science blog! 
-
+Hello and welcome to my blog! 
