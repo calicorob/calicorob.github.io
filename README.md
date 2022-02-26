@@ -1,4 +1,4 @@
-# My data science blog
+# My blog
 
 Hey all, this is the repository which holds the markdown files I use for writing my blog. 
 
