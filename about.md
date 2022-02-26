@@ -16,10 +16,10 @@ My background:
 * I graduated from the University of Waterloo with a MASc. in Chemical Engineering in 2019.
 * After graudating from Waterloo, I moved into a data science role at JANA Corporaton.
 
-### JANA Corporation
+#### JANA Corporation
 At JANA, I use data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base.
 
-### University of Waterloo
+#### University of Waterloo
 
 At the University of Waterloo, I primiarily worked on:
 
