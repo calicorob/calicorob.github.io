@@ -2,7 +2,7 @@
 
 # About the site
 
-This blog was created so I could deepen my understanding of various data science topics and tools through writing. I've always felt that my understanding of a topic has deepened when I've tried (and failed) to teach that topic to someone else. 
+This blog was created so I could deepen my understanding of various data science topics and tools through writing. I've always felt that my understanding of a topic has deepened when I've tried (and sometimes failed) to teach that topic to someone else. 
 
 With that in mind, this blog will be used by me to share information and ideas on projects and tasks I've worked on. 
 
@@ -15,9 +15,13 @@ My background:
 * I graduated from Queen's University with a B.A.Sc. in Chemical Engineering in 2016.
 * I graduated from the University of Waterloo with a MASc. in Chemical Engineering in 2019.
 * After graudating from Waterloo, I moved into a data science role at JANA Corporaton.
+* After JANA, I joined [ACV Auto](https://acvauto.com/).
+
+#### ACV Auto
+I joined ACV Auto in March 2022 where, as an analytics engineer apart of the product analytics team, I help the business make data driven decisions for improving products and moving the business forward.
 
 #### JANA Corporation
-At JANA, I use data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base.
+At JANA, I used data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base.
 
 #### University of Waterloo
 
