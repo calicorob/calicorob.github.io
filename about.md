@@ -2,13 +2,11 @@
 
 # About the site
 
-This blog was created so I could deepen my understanding of various data science topics and tools through writing. I've always felt that my understanding of a topic has deepened when I've tried (and sometimes failed) to teach that topic to someone else. 
-
-With that in mind, this blog will be used by me to share information and ideas on projects and tasks I've worked on. 
-
-By doing this I'm hoping I can deepen the understanding of my own work. 
+This is my blog where I'm going to drop notes on my personal & work life.
 
 # About me
+
+## Career
 
 My background:
 
@@ -17,13 +15,13 @@ My background:
 * After graudating from Waterloo, I moved into a data science role at JANA Corporaton.
 * After JANA, I joined [ACV Auto](https://acvauto.com/).
 
-#### ACV Auto
-I joined ACV Auto in March 2022 where, as an analytics engineer apart of the product analytics team, I help the business make data driven decisions for improving products and moving the business forward.
+### ACV Auto
+I joined ACV Auto in March 2022 working in the product analytics team as an analytics engineer.  AT ACV, I help the business make data driven decisions for improving products and moving the business forward.
 
-#### JANA Corporation
+### JANA Corporation
 At JANA, I used data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base.
 
-#### University of Waterloo
+### University of Waterloo
 
 At the University of Waterloo, I primiarily worked on:
 
@@ -34,4 +32,14 @@ My regression and modelling work has been used in 4 [publications](https://schol
 
 I got interested in data science and machine learning while working on my Masters' Degree at the University of Waterloo.
 
+## Personal
+
+### Curling
+In my spare time I like to curl competitively. Right now, I am apart of [Team Ferris](https://www.curlingzone.com/team.php?teamid=160858&profileid=31213) who competes on the World Curling Tour (WCT).
+
+### Other Stuff
+I like golfing, keeping in shape, cats & dogs and spending time with my loved ones. 
+
+
 <img src="images/robert.jpg" width="200" height="200" />
+
