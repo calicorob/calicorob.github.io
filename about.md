@@ -6,8 +6,6 @@ This is my blog where I'm going to drop notes on my personal & work life.
 
 # About me
 
-## Career
-
 My background:
 
 * I graduated from Queen's University with a B.A.Sc. in Chemical Engineering in 2016.
@@ -15,11 +13,15 @@ My background:
 * After graudating from Waterloo, I moved into a data science role at JANA Corporaton.
 * After JANA, I joined [ACV Auto](https://acvauto.com/).
 
+## Career
+
 ### ACV Auto
 I joined ACV Auto in March 2022 working in the product analytics team as an analytics engineer.  AT ACV, I help the business make data driven decisions for improving products and moving the business forward.
 
 ### JANA Corporation
 At JANA, I used data science, machine learning and reliability engineering to predict the risk of failure of the components of our client's installed natural gas transmission and distribution asset base.
+
+## Education
 
 ### University of Waterloo
 
