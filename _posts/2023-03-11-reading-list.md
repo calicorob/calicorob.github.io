@@ -1,6 +1,6 @@
 # 2023 Reading List 
 
-Here are the books I've read in 2023.
+Here's a running list of the books I've read in 2023.
 
 | Title | Author |
 | ---------- | ------ |
