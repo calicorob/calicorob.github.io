@@ -4,7 +4,7 @@ About a year ago, I started work on [czapi](https://pypi.org/project/czapi/) a P
 
 czapi was created in another side project of mine where I was developing curling analytics by scraping curling results off of CurlingZone. I decided to publish czapi so I could gain some experience in the open-source ecosystem. For the past year or so, I've been developing czapi on-and-off, with other work and life related projects usually taking precedence.
 
-This past Thursday (March 9) though, I received an unexpected email:
+This past Thursday (March 9) though, I received an unexpected email (it's a bit hard to read):
 
 <img src = "../../../images/motivation/czapi_use.PNG" />
 
