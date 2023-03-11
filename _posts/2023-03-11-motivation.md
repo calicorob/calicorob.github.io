@@ -6,7 +6,7 @@ czapi was created in another side project of mine where I was developing curling
 
 This past Thursday (March 9) though, I received an unexpected email:
 
-<img src = "../../../images/motivation/czapi_use.PNG" width=2160 height = 500 />
+<img src = "../../../images/motivation/czapi_use.PNG" height = 500 />
 
 Someone emailed _**me**_ asking about czapi and an error they were encountering!
 
